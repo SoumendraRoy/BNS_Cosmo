@@ -1,0 +1,14 @@
+name: popcosmo
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - arviz
+  - python=3
+  - astropy
+  - pymc=4
+  - seaborn
+  - ipykernel
+  - jupyterlab
+  - pip
+prefix: /Users/wfarr/miniconda3/envs/PymcCosmography
